@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainKtTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-05-22T08:40:57" hostname="DESKTOP-EG5IPEP" time="0.826">
+  <properties/>
+  <testcase name="should_ReturnMinus1_When_NumberIsSupplied()" classname="MainKtTest" time="0.594"/>
+  <testcase name="should_ReturnMinus1_When_BandAareCapital()" classname="MainKtTest" time="0.09"/>
+  <testcase name="should_Return50point0_When_Ais1andBis1()" classname="MainKtTest" time="0.015"/>
+  <testcase name="should_ReturnMinus1_When_AnotherCharInsteadofAorBisSupplied()" classname="MainKtTest" time="0.002"/>
+  <testcase name="should_Return66point7_When_Ais2andBis1()" classname="MainKtTest" time="0.002"/>
+  <testcase name="should_Return33point3_When_Ais1andBis2()" classname="MainKtTest" time="0.008"/>
+  <testcase name="should_ReturnMinus1_When_BisCapital()" classname="MainKtTest" time="0.01"/>
+  <testcase name="should_ReturnMinus1_When_AisCapital()" classname="MainKtTest" time="0.001"/>
+  <testcase name="should_ReturnMinus1_When_NoAisSuppliedButBisSupplied()" classname="MainKtTest" time="0.001"/>
+  <testcase name="should_ReturnMinus1_When_SymbolIsSupplied()" classname="MainKtTest" time="0.0"/>
+  <testcase name="should_ReturnMinus1_When_NoBandAareSupplied()" classname="MainKtTest" time="0.002"/>
+  <testcase name="should_Return100_When_AisSuppliedButNoBisSupplied()" classname="MainKtTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
